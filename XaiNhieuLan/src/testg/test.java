@@ -13,6 +13,11 @@ public class test {
         String a = "123";
 
         int b = 4 ;
+<<<<<<< HEAD
 
     }
+=======
+        int c =7;
+    
+>>>>>>> 60c968613a3836d1cf3ce0a30390b18134225c0d
 }
