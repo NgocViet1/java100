@@ -12,12 +12,12 @@ public class test {
     public static void main(String[] args) {
         String a = "123";
 
-        int b = 4 ;
+        int b = 10 ;
 
 
     }
 
         int c =7;
-//asdasdjkasdjkaslds
+//asdasdjkasdjkasldsddd
     int d =15;
 }
